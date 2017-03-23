@@ -1,0 +1,2 @@
+# stranka
+projekt zadanie B
